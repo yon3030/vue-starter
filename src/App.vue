@@ -19,3 +19,10 @@
     color: red ;
   }
 </style>
+
+<!--
+  <router-link to="/">Home</router-link>
+  <router-link to="/topics">Topics</router-link>
+  <router-link to="/counter">Counter</router-link>
+  <router-link to="/about">About</router-link>
+ -->
